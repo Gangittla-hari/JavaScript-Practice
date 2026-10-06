@@ -11,4 +11,4 @@ Here is a collection of 100 JavaScipt questions, divided into groups of 10, base
    8. Print the type of a variable holding the value
    true.
    9. Create a variable holding your age log whether it's greater than 18.
-   10. Log the result of 100 / 0 and obsec
+   10. Log the result of 100 / 0 and obsec.
